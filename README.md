@@ -18,15 +18,28 @@ Detail-oriented Manual QA Tester with hands-on experience in functional, regress
 
 ---
 
-### 📂 Featured Projects / Work Samples
+### 🌐 Projects Tested
 
-| Project Name | Description | Link |
-|---------------|--------------|------|
-| E-commerce Website Testing | Complete test case suite for a sample e-commerce site (login, cart, checkout flows) | [View](#) |
-| Login Module Bug Report | Sample bug report documenting UI/functional issues | [View](#) |
-| Test Plan Template | A reusable test plan template for web applications | [View](#) |
+| Project Name | Live Link |
+|---------------|-----------|
+| FDE LMS | [fdelms.com.pk](https://fdelms.com.pk/) |
+| Orbix 365 | [app.orbix365.com](https://app.orbix365.com/signIn/) |
+| Bio Fusion | [adminbf.beyondtechinc.co](https://adminbf.beyondtechinc.co/clinics) |
+| FX2 Group | [fx2group.com](https://www.fx2group.com/) |
+| Second Wings | [2ndwings.com](https://www.2ndwings.com/) |
+| Worx | [2ndwings.com](https://www.2ndwings.com/) |
 
-*(Replace the # links above with actual file links once you upload your documents)*
+---
+
+### 📁 Test Case Documents
+
+| File | Description |
+|------|--------------|
+| [FDE use cases.zip](./FDE%20use%20cases.zip) | Manual test cases for FDE LMS |
+| [drobe.zip](./drobe.zip) | Manual test cases / bug reports |
+| [modulus.zip](./modulus.zip) | Manual test cases / bug reports |
+
+*(Update descriptions above if a file belongs to a different project)*
 
 ---
 
@@ -44,8 +57,8 @@ Detail-oriented Manual QA Tester with hands-on experience in functional, regress
 ---
 
 ### 📫 Connect with Me
-- **Email:** your-email@example.com
-- **LinkedIn:** [linkedin.com/in/yourprofile](#)
+- **Email:** usmanzafar22199@gmail.com
+- **LinkedIn:** [linkedin.com/in/uz2212](https://www.linkedin.com/in/uz2212/)
 
 ---
 
