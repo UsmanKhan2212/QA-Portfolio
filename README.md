@@ -43,16 +43,15 @@ Detail-oriented Manual QA Tester with hands-on experience in functional, regress
 
 ---
 
-### 📝 Sample Test Case Format
-
-| Test Case ID | Description | Steps | Expected Result | Actual Result | Status |
-|--------------|--------------|-------|------------------|----------------|--------|
-| TC_001 | Verify login with valid credentials | 1. Open app 2. Enter valid email/password 3. Click Login | User logged in successfully | As expected | ✅ Pass |
-
----
-
-### 📌 Certifications
-- *(Add here if you have any, e.g., ISTQB Foundation Level)*
+### 📌 Certifications & Training
+- Software Testing Fundamentals — Udemy
+- Postman API Testing — Postman
+- Bug Tracking with Jira — Atlassian
+- Agile & Scrum Essentials — Coursera
+- Performance Testing with JMeter — Udemy
+- SQL for Testers — Udemy
+- Manual Testing Masterclass — Udemy
+- REST API Testing — LinkedIn Learning
 
 ---
 
